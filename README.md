@@ -1,4 +1,4 @@
-#TravelNest
+#TravelNest Website
 
 1. Frontend (React.js):
     The user interacts with the frontend interface built using React.js, where they can search for destinations, view travel packages, book trips, etc.
